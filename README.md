@@ -18,4 +18,45 @@ This edition has been updated to include changes in the latest version of Minite
 
 ## Topics
 ```
+Introduction
+[x] Why a Cookbook?
+[x] What to Expect from Reading This Book
+
+How Minitest Works
+[ ] Plugins
+[ ] Reporters
+[ ] Runnables
+[ ] The Minitest Runner
+[ ] Wrap-up
+
+Basic Recipes
+[ ] Add Minitest to your Project
+[ ] Run Your Entire Test Suite
+[ ] Run a Selection of Tests
+[ ] Writing Tests
+[ ] Writing Specs
+[ ] Configure Pre-Test State
+[ ] Comparing Things
+[ ] Having Fun with Minitest::Pride and Friends
+
+intermediate Recipes
+[ ] Using Mocks, Stubs, and Other Test Doubles
+[ ] Customizing Test Reports
+[ ] Testing Mixin Behaviour
+[ ] Sharing Code Between Tests
+[ ] Continuos Testing with Guards
+[ ] Writing Custom Assertions and Expectations
+[ ] Developing Your Own Minitest Extension
+
+Rails Recipes
+[ ] Set Up and Run Minitest for Your Rails Project
+[ ] Managing Test Data
+[ ] Testing Active Record Models
+[ ] Testing Controllers
+[ ] Testing Helpers
+[ ] Testing Background Processing
+[ ] Testing Your Application End-to-End
+
+Appendix A: Minitest::Test Reference
+Appendix B: Minitest::Spec Reference
 ```
