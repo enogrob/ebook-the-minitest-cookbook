@@ -23,11 +23,11 @@ Introduction
 [x] What to Expect from Reading This Book
 
 How Minitest Works
-[ ] Plugins
-[ ] Reporters
-[ ] Runnables
-[ ] The Minitest Runner
-[ ] Wrap-up
+[x] Plugins
+[x] Reporters
+[x] Runnables
+[x] The Minitest Runner
+[x] Wrap-up
 
 Basic Recipes
 [ ] Add Minitest to your Project
