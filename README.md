@@ -49,7 +49,7 @@ intermediate Recipes
 [ ] Developing Your Own Minitest Extension
 
 Rails Recipes
-[ ] Set Up and Run Minitest for Your Rails Project
+[x] Set Up and Run Minitest for Your Rails Project
 [ ] Managing Test Data
 [ ] Testing Active Record Models
 [ ] Testing Controllers
